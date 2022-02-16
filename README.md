@@ -1,2 +1,2 @@
 # algorithms
-Some algorithms using java or python
+Some algorithms using java or golang
