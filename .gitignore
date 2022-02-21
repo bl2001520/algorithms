@@ -32,3 +32,5 @@ bin/
 tmp/
 *.xml
 
+# 自定义
+src/
