@@ -1,2 +1,1 @@
-# algorithms
-Some algorithms using java or golang.
+# 算法刷题记录
